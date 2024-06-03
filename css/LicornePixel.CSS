@@ -1,0 +1,48 @@
+table{
+    margin: auto;
+    border-collapse: collapse;
+}
+td {
+    width: 10px;
+    height: 10px;
+}
+
+.white {
+    background-color: rgb(225, 230, 236);
+}
+
+.black {
+    background-color: black;
+}
+
+
+
+.red{
+    background-color: rgb(241, 2, 2);
+}
+
+
+
+.burlywood{
+    background-color: burlywood;
+}
+
+.green{
+    background-color: rgb(102, 207, 102);
+}
+.bluemauve{
+    background-color: rgb(36, 85, 189);
+}
+.orange{  background-color: rgb(241, 135, 48);
+}
+
+.jaune{  background-color: rgb(251, 255, 0);
+}
+.gris{  background-color: rgb(124, 123, 122);
+}
+.bleuclair{  background-color: rgb(190, 243, 250);
+}
+.bleu{  background-color: rgb(63, 213, 240);
+}
+.purple{  background-color: rgb(134, 84, 167);
+}

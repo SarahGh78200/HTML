@@ -1,0 +1,35 @@
+table{
+    margin: auto;
+    border-collapse: collapse;
+}
+td {
+    width: 20px;
+    height: 20px;
+}
+
+.white {
+    background-color: aliceblue;
+}
+
+.black {
+    background-color: black;
+}
+
+
+
+.rgb {
+    background-color: rgb(38, 130, 216);
+}
+
+
+
+.burlywood{
+    background-color: burlywood;
+}
+
+.green{
+    background-color: green;
+}
+.bluemauve{
+    background-color: rgb(36, 85, 189);
+}
