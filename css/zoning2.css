@@ -1,3 +1,18 @@
+
+ body {
+    color: white;
+    font-size: 25px;
+}
+
+#conteneur{
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid darkslategray;
+}
+header{
+    background-color: #ec4aae;
+    height: 100px;
+}
 body {
     color: white;
     font-size: 25px;
@@ -8,17 +23,16 @@ body {
     margin: 0 auto;
     border: 2px solid darkslategray;
 }
-
 header{
-    background-color: #8e3557;
+    background-color: #d62e6f;
     height: 100px;
 }
 
 nav{
-    background-color: #4a1a2c;
+    background-color: #ff1068;
     height: 30px;
-}
 
+}
 section{
     background-color: #787746;
     height: 500px;
